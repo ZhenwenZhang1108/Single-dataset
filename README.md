@@ -14,5 +14,9 @@
  step9: 聚类后找每个细胞亚群的标志基因  
  step10: 继续分类（case-study）  
 ## Seurat流程教学
+降维：  
 https://holab-hku.github.io/Fundamental-scRNA/  
+
+聚类与细胞注释：  
+https://github.com/pkuerten/single_cell_clustering_annotation.github.io/blob/main/index.md
 ## 其他小众流程：
