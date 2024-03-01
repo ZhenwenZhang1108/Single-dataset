@@ -18,5 +18,10 @@
 https://holab-hku.github.io/Fundamental-scRNA/  
 
 聚类与细胞注释：  
-https://github.com/pkuerten/single_cell_clustering_annotation.github.io/blob/main/index.md
+https://github.com/pkuerten/single_cell_clustering_annotation.github.io/blob/main/index.md  
+
+读入数据的后缀类型：  
+（1）.h5文件(所以需要hf5r的R包)
+e.g. https://github.com/holab-hku/Fundamental-scRNA/blob/master/data/10k_PBMC.h5  
+
 ## 其他小众流程：
